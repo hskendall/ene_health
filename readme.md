@@ -1,3 +1,49 @@
+
+
+
+
+- 1.
+Billing Agent functionality :
+
+- CPT code verification
+- Service cost calculation
+- Payment processing
+- Invoice generation
+- 2.
+Insurance Agent functionality :
+
+- Coverage verification
+- Claim submission
+- Claim status updates
+- Reimbursement processing
+- 3.
+Integrated workflow demonstrating a complete patient billing cycle:
+
+- Service cost calculation
+- Insurance verification
+- Split billing between patient and insurance
+- Patient payment processing
+- Insurance claim submission and processing
+- Final invoice generation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Restack AI Python Examples
 
 This repository contains various examples demonstrating how to use the Restack AI Python SDK. These examples are designed to help you get started with Restack AI and showcase different features and use cases.
